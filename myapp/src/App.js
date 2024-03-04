@@ -1,9 +1,10 @@
 
 import './App.css';
+import Chai from "./Chai"
 
 function App() {
   return (
-    <h1>hello world <button>login</button> yoyo</h1>
+    <Chai />
     
   );
 }
